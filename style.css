@@ -3,3 +3,7 @@
 p{
     color: red;
 }
+body {
+    background-image: url("1.png");
+    background-repeat: repeat-y;
+}
