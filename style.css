@@ -1,1 +1,5 @@
 /*fichier comporte le style personaliser de l'utilisateur*/
+
+p{
+    color: red;
+}
