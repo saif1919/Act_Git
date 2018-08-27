@@ -1,0 +1,1 @@
+ce projet represente la permiere activité de la formation sur git et github
